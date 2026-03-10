@@ -1,0 +1,25 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/footprint/footprint",
+    "pages/timeline/timeline",
+    "pages/list/list",
+    "pages/checkin/checkin",
+    "pages/checkin-list/checkin-list"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#FF6B6B",
+    "navigationBarTitleText": "小豆子旅行轨迹",
+    "navigationBarTextStyle": "white"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于记录打卡位置"
+    }
+  },
+  "requiredPrivateInfos": ["getLocation"],
+  "lazyCodeLoading": "requiredComponents"
+}

@@ -1,0 +1,39 @@
+# Bean Position - Git Ignore
+# 敏感信息保护
+
+# 环境变量文件
+.env
+.env.local
+.env.*.local
+
+# 微信开发者工具
+project.config.json
+project.private.config.json
+
+# 云函数
+node_modules/
+miniprogram_npm/
+
+# 构建产物
+dist/
+build/
+
+# 日志
+*.log
+logs/
+
+# 临时文件
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 系统文件
+.history/
+.cache/
