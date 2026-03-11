@@ -1,0 +1,15 @@
+<view class="container">
+  <view class="loading" wx:if="{{loading}}">
+    <text class="loading-text">加载中...</text>
+  </view>
+
+  <view class="error" wx:if="{{error && !loading}}">
+    <text class="error-text">{{error}}</text>
+    <button class="retry-btn" bindtap="getData">重试</button>
+  </view>
+
+  <view class="content" wx:if="{{!loading && !error}}">
+    <text class="page-title">打卡列表页面</text>
+    <!-- TODO: 页面内容 -->
+  </view>
+</view>

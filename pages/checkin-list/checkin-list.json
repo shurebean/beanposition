@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "打卡列表",
+  "usingComponents": {},
+  "enablePullDownRefresh": true,
+  "backgroundTextStyle": "dark"
+}

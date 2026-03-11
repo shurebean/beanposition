@@ -1,25 +1,67 @@
 {
   "pages": [
     "pages/index/index",
-    "pages/footprint/footprint",
-    "pages/timeline/timeline",
-    "pages/list/list",
     "pages/checkin/checkin",
+    "pages/footprint/footprint",
+    "pages/list/list",
+    "pages/timeline/timeline",
     "pages/checkin-list/checkin-list"
   ],
   "window": {
-    "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#FF6B6B",
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#007aff",
     "navigationBarTitleText": "小豆子旅行轨迹",
-    "navigationBarTextStyle": "white"
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#f5f5f5"
+  },
+  "tabBar": {
+    "color": "#999999",
+    "selectedColor": "#007aff",
+    "backgroundColor": "#ffffff",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "images/home.png",
+        "selectedIconPath": "images/home-active.png"
+      },
+      {
+        "pagePath": "pages/checkin/checkin",
+        "text": "打卡",
+        "iconPath": "images/checkin.png",
+        "selectedIconPath": "images/checkin-active.png"
+      },
+      {
+        "pagePath": "pages/footprint/footprint",
+        "text": "足迹",
+        "iconPath": "images/footprint.png",
+        "selectedIconPath": "images/footprint-active.png"
+      },
+      {
+        "pagePath": "pages/list/list",
+        "text": "清单",
+        "iconPath": "images/list.png",
+        "selectedIconPath": "images/list-active.png"
+      },
+      {
+        "pagePath": "pages/timeline/timeline",
+        "text": "时间线",
+        "iconPath": "images/timeline.png",
+        "selectedIconPath": "images/timeline-active.png"
+      }
+    ]
   },
   "style": "v2",
   "sitemapLocation": "sitemap.json",
+  "lazyCodeLoading": "requiredComponents",
+  "usingComponents": {},
   "permission": {
     "scope.userLocation": {
-      "desc": "你的位置信息将用于记录打卡位置"
+      "desc": "用于展示您的旅行足迹位置"
     }
   },
-  "requiredPrivateInfos": ["getLocation"],
-  "lazyCodeLoading": "requiredComponents"
+  "requiredPrivateInfos": [
+    "getLocation"
+  ]
 }

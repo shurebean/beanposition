@@ -1,0 +1,49 @@
+{
+  "app": {
+    "name": "小豆子旅行轨迹",
+    "version": "1.0.0",
+    "description": "记录旅行足迹，发现美好世界"
+  },
+  "map": {
+    "primary": "tencent",
+    "fallback": "amap",
+    "tencent": {
+      "key": "XLFBZ-WZVYM-XF26F-6K3SD-3DTBE-IKBLV"
+    },
+    "amap": {
+      "webKey": "a4ee28fbe97bbe71c1eb5989b4bcca1c"
+    },
+    "defaultCenter": {
+      "latitude": 39.908692,
+      "longitude": 116.397477
+    },
+    "defaultZoom": 12,
+    "minZoom": 3,
+    "maxZoom": 18
+  },
+  "data": {
+    "museumSource": "github",
+    "themeParkSource": "internal",
+    "syncInterval": 604800000
+  },
+  "ui": {
+    "recentCheckinsLimit": 3,
+    "photosLimit": 9,
+    "notesMaxLength": 500,
+    "timelinePageSize": 20,
+    "listPageSize": 50,
+    "searchResultLimit": 20,
+    "nearbyRadius": 5000
+  },
+  "api": {
+    "timeout": 30000,
+    "retryTimes": 3,
+    "retryDelay": 1000
+  },
+  "image": {
+    "compressionQuality": 80,
+    "maxWidth": 1920,
+    "maxHeight": 1920,
+    "maxSize": 5242880
+  }
+}
