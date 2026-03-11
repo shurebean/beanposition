@@ -1,0 +1,637 @@
+[
+  {
+    "_id": "themePark_1",
+    "brand": "迪士尼",
+    "name": "上海迪士尼乐园",
+    "location": {
+      "province": "上海",
+      "city": "上海",
+      "district": "浦东新区",
+      "address": "上海市浦东新区川沙镇黄赵路310号",
+      "coordinates": [31.1434, 121.6570]
+    },
+    "facilities": [
+      "主题园区",
+      "游乐设施",
+      "餐饮设施",
+      "商店",
+      "酒店",
+      "免费WiFi",
+      "行李寄存",
+      "停车场"
+    ],
+    "ticketInfo": {
+      "adult": "399元起",
+      "child": "299元起",
+      "student": "399元起",
+      "annual": "1599元",
+      "night": "299元起",
+      "peak": "499元起"
+    },
+    "openTime": "09:00-21:00（节假日08:00-22:00）",
+    "website": "https://www.shanghaidisneyresort.com",
+    "phone": "400-180-0000",
+    "tags": ["主题乐园", "家庭", "亲子", "热门"],
+    "createTime": "2026-03-11T00:00:00.000Z",
+    "updateTime": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "_id": "themePark_2",
+    "brand": "迪士尼",
+    "name": "香港迪士尼乐园",
+    "location": {
+      "province": "香港",
+      "city": "香港",
+      "district": "大屿山",
+      "address": "香港大屿山竹篙湾香港迪士尼乐园",
+      "coordinates": [22.3133, 113.9712]
+    },
+    "facilities": [
+      "主题园区",
+      "游乐设施",
+      "餐饮设施",
+      "商店",
+      "酒店",
+      "免费WiFi",
+      "行李寄存",
+      "停车场"
+    ],
+    "ticketInfo": {
+      "adult": "639港币起",
+      "child": "475港币起",
+      "student": "539港币起",
+      "annual": "1998港币",
+      "night": "399港币起",
+      "peak": "749港币起"
+    },
+    "openTime": "10:00-20:30（节假日09:30-21:00）",
+    "website": "https://www.hongkongdisneyland.com",
+    "phone": "+852 1-800-868-6888",
+    "tags": ["主题乐园", "家庭", "亲子", "国际"],
+    "createTime": "2026-03-11T00:00:00.000Z",
+    "updateTime": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "_id": "themePark_3",
+    "brand": "长隆",
+    "name": "广州长隆野生动物世界",
+    "location": {
+      "province": "广东",
+      "city": "广州",
+      "district": "番禺区",
+      "address": "广东省广州市番禺区大石镇105国道大石段593号",
+      "coordinates": [23.0074, 113.3256]
+    },
+    "facilities": [
+      "动物展区",
+      "游乐设施",
+      "表演秀",
+      "餐饮设施",
+      "商店",
+      "酒店",
+      "免费WiFi",
+      "停车场"
+    ],
+    "ticketInfo": {
+      "adult": "350元",
+      "child": "210元",
+      "student": "350元",
+      "annual": "1280元",
+      "night": "150元",
+      "peak": "450元"
+    },
+    "openTime": "09:30-18:00",
+    "website": "https://www.chimelong.com",
+    "phone": "020-84790933",
+    "tags": ["动物园", "动物", "家庭", "亲子"],
+    "createTime": "2026-03-11T00:00:00.000Z",
+    "updateTime": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "_id": "themePark_4",
+    "brand": "长隆",
+    "name": "珠海长隆海洋王国",
+    "location": {
+      "province": "广东",
+      "city": "珠海",
+      "district": "横琴新区",
+      "address": "广东省珠海市横琴新区长隆大道",
+      "coordinates": [22.1495, 113.5492]
+    },
+    "facilities": [
+      "海洋动物",
+      "游乐设施",
+      "表演秀",
+      "餐饮设施",
+      "商店",
+      "酒店",
+      "免费WiFi",
+      "停车场"
+    ],
+    "ticketInfo": {
+      "adult": "398元",
+      "child": "280元",
+      "student": "398元",
+      "annual": "1580元",
+      "night": "198元",
+      "peak": "498元"
+    },
+    "openTime": "09:30-21:00",
+    "website": "https://www.chimelong.com",
+    "phone": "0756-8898888",
+    "tags": ["海洋公园", "动物", "家庭", "热门"],
+    "createTime": "2026-03-11T00:00:00.000Z",
+    "updateTime": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "_id": "themePark_5",
+    "brand": "华侨城",
+    "name": "深圳东部华侨城",
+    "location": {
+      "province": "广东",
+      "city": "深圳",
+      "district": "盐田区",
+      "address": "广东省深圳市盐田区大梅沙环梅路",
+      "coordinates": [22.5640, 114.与其他]
+    },
+    "facilities": [
+      "主题园区",
+      "游乐设施",
+      "自然风光",
+      "餐饮设施",
+      "商店",
+      "酒店",
+      "免费WiFi",
+      "停车场"
+    ],
+    "ticketInfo": {
+      "adult": "300元",
+      "child": "150元",
+      "student": "300元",
+      "annual": "999元",
+      "night": "100元",
+      "peak": "400元"
+    },
+    "openTime": "09:00-22:00",
+    "website": "https://www.oct-east.com",
+    "phone": "0755-88886688",
+    "tags": ["主题乐园", "自然", "家庭"],
+    "createTime": "2026-03-11T00:00:00.000Z",
+    "updateTime": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "_id": "themePark_6",
+    "brand": "华侨城",
+    "name": "深圳欢乐谷",
+    "location": {
+      "province": "广东",
+      "city": "深圳",
+      "district": "南山区",
+      "address": "广东省深圳市南山区华侨城侨城西路",
+      "coordinates": [22.5394, 113.9817]
+    },
+    "facilities": [
+      "游乐设施",
+      "主题园区",
+      "表演秀",
+      "餐饮设施",
+      "商店",
+      "免费WiFi",
+      "停车场"
+    ],
+    "ticketInfo": {
+      "adult": "299元",
+      "child": "149元",
+      "student": "299元",
+      "annual": "880元",
+      "night": "120元",
+      "peak": "399元"
+    },
+    "openTime": "09:30-21:00",
+    "website": "https://www.happyvalley.cn",
+    "phone": "0755-26949184",
+    "tags": ["主题乐园", "游乐", "刺激", "热门"],
+    "createTime": "2026-03-11T00:00:00.000Z",
+    "updateTime": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "_id": "themePark_7",
+    "brand": "方特",
+    "name": "芜湖方特欢乐世界",
+    "location": {
+      "province": "安徽",
+      "city": "芜湖",
+      "district": "鸠江区",
+      "address": "安徽省芜湖市鸠江区银湖北路80号",
+      "coordinates": [31.3408, 118.3867]
+    },
+    "facilities": [
+      "主题园区",
+      "游乐设施",
+      "表演秀",
+      "餐饮设施",
+      "商店",
+      "免费WiFi",
+      "停车场"
+    },
+    "ticketInfo": {
+      "adult": "280元",
+      "child": "180元",
+      "student": "280元",
+      "annual": "680元",
+      "night": "120元",
+      "peak": "360元"
+    },
+    "openTime": "09:00-18:00",
+    "website": "https://www.fantawild.com",
+    "phone": "0553-5996666",
+    "tags": ["主题乐园", "游乐", "家庭"],
+    "createTime": "2026-03-11T00:00:00.000Z",
+    "updateTime": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "_id": "themePark_8",
+    "brand": "方特",
+    "name": "郑州方特欢乐世界",
+    "location": {
+      "province": "河南",
+      "city": "郑州",
+      "district": "中牟县",
+      "address": "河南省郑州市中牟县郑开大道与人文路交汇处",
+      "coordinates": [34.7184, 113.9698]
+    },
+    "facilities": [
+      "主题园区",
+      "游乐设施",
+      "表演秀",
+      "餐饮设施",
+      "商店",
+      "免费WiFi",
+      "停车场"
+    ],
+    "ticketInfo": {
+      "adult": "260元",
+      "child": "160元",
+      "student": "260元",
+      "annual": "680元",
+      "night": "120元",
+      "peak": "340元"
+    },
+    "openTime": "09:00-18:00",
+    "website": "https://www.fantawild.com",
+    "phone": "0371-56000000",
+    "tags": ["主题乐园", "游乐", "家庭"],
+    "createTime": "2026-03-11T00:00:00.000Z",
+    "updateTime": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "_id": "themePark_9",
+    "brand": "万达",
+    "name": "合肥万达主题乐园",
+    "location": {
+      "province": "安徽",
+      "city": "合肥",
+      "district": "包河区",
+      "address": "安徽省合肥市包河区庐州大道800号",
+      "coordinates": [31.8036, 117.3569]
+    },
+    "facilities": [
+      "主题园区",
+      "游乐设施",
+      "表演秀",
+      "餐饮设施",
+      "商店",
+      "免费WiFi",
+      "停车场"
+    },
+    "ticketInfo": {
+      "adult": "299元",
+      "child": "199元",
+      "student": "299元",
+      "annual": "999元",
+      "night": "120元",
+      "peak": "399元"
+    },
+    "openTime": "09:30-18:00",
+    "website": "https://www.wanda.com",
+    "phone": "0551-65168888",
+    "tags": ["主题乐园", "游乐", "家庭"],
+    "createTime": "2026-03-11T00:00:00.000Z",
+    "updateTime": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "_id": "themePark_10",
+    "brand": "万达",
+    "name": "南昌万达主题乐园",
+    "location": {
+      "province": "江西",
+      "city": "南昌",
+      "district": "红谷滩新区",
+      "address": "江西省南昌市红谷滩新区九龙湖万达城",
+      "coordinates": [28.6425, 115.8376]
+    },
+    "facilities": [
+      "主题园区",
+      "游乐设施",
+      "表演秀",
+      "餐饮设施",
+      "商店",
+      "免费WiFi",
+      "停车场"
+    ],
+    "ticketInfo": {
+      "adult": "299元",
+      "child": "199元",
+      "student": "299元",
+      "annual": "999元",
+      "night": "120元",
+      "peak": "399元"
+    },
+    "openTime": "09:30-18:00",
+    "website": "https://www.wanda.com",
+    "phone": "0791-88668888",
+    "tags": ["主题乐园", "游乐", "家庭"],
+    "createTime": "2026-03-11T00:00:00.000Z",
+    "updateTime": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "_id": "themePark_11",
+    "brand": "环球影城",
+    "name": "北京环球影城",
+    "location": {
+      "province": "北京",
+      "city": "北京",
+      "district": "通州区",
+      "address": "北京市通州区梨园镇张家湾村",
+      "coordinates": [39.7691, 116.7330]
+    },
+    "facilities": [
+      "主题园区",
+      "游乐设施",
+      "表演秀",
+      "餐饮设施",
+      "商店",
+      "酒店",
+      "免费WiFi",
+      "行李寄存",
+      "停车场"
+    ],
+    "ticketInfo": {
+      "adult": "418元起",
+      "child": "315元起",
+      "student": "418元起",
+      "annual": "2288元",
+      "night": "299元起",
+      "peak": "528元起"
+    },
+    "openTime": "09:00-20:00（节假日08:00-21:00）",
+    "website": "https://www.universalbeijingresort.com",
+    "phone": "400-180-0000",
+    "tags": ["主题乐园", "IP", "热门", "国际"],
+    "createTime": "2026-03-11T00:00:00.000Z",
+    "updateTime": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "_id": "themePark_12",
+    "brand": "欢乐谷",
+    "name": "北京欢乐谷",
+    "location": {
+      "province": "北京",
+      "city": "北京",
+      "district": "朝阳区",
+      "address": "北京市朝阳区东四环小武基北路",
+      "coordinates": [39.8772, 116.4913]
+    },
+    "facilities": [
+      "主题园区",
+      "游乐设施",
+      "表演秀",
+      "餐饮设施",
+      "商店",
+      "免费WiFi",
+      "停车场"
+    ],
+    "ticketInfo": {
+      "adult": "299元",
+      "child": "149元",
+      "student": "299元",
+      "annual": "880元",
+      "night": "120元",
+      "peak": "399元"
+    },
+    "openTime": "09:00-22:00",
+    "website": "https:// happyvalley.cn",
+    "phone": "010-67333336",
+    "tags": ["主题乐园", "游乐", "刺激", "热门"],
+    "createTime": "2026-03-11T00:00:00.000Z",
+    "updateTime": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "_id": "themePark_13",
+    "brand": "欢乐谷",
+    "name": "成都欢乐谷",
+    "location": {
+      "province": "四川",
+      "city": "成都",
+      "district": "金牛区",
+      "address": "四川省成都市金牛区西华大道16号",
+      "coordinates": [30.6815, 104.0445]
+    },
+    "facilities": [
+      "主题园区",
+      "游乐设施",
+      "表演秀",
+      "餐饮设施",
+      "商店",
+      "免费WiFi",
+      "停车场"
+    ],
+    "ticketInfo": {
+      "adult": "260元",
+      "child": "160元",
+      "student": "260元",
+      "annual": "750元",
+      "night": "120元",
+      "peak": "340元"
+    },
+    "openTime": "09:30-21:00",
+    "website": "https:// happyvalley.cn",
+    "phone": "028-61898000",
+    "tags": ["主题乐园", "游乐", "刺激"],
+    "createTime": "2026-03-11T00:00:00.000Z",
+    "updateTime": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "_id": "themePark_14",
+    "brand": "乐高",
+    "name": "上海乐高探索中心",
+    "location": {
+      "province": "上海",
+      "city": "上海",
+      "district": "普陀区",
+      "address": "上海市普陀区长风大悦城2楼",
+      "coordinates": [31.2323, 121.3912]
+    },
+    "facilities": [
+      "乐高积木",
+      "游乐设施",
+      "DIY工坊",
+      "餐饮设施",
+      "商店",
+      "免费WiFi"
+    ],
+    "ticketInfo": {
+      "adult": "320元",
+      "child": "240元",
+      "student": "320元",
+      "annual": "1280元",
+      "night": "150元",
+      "peak": "400元"
+    },
+    "openTime": "10:00-20:00",
+    "website": "https://www.legolanddiscoverycenter.com",
+    "phone": "021-60288288",
+    "tags": ["儿童乐园", "益智", "家庭", "亲子"],
+    "createTime": "2026-03-11T00:00:00.000Z",
+    "updateTime": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "_id": "themePark_15",
+    "brand": "宋城",
+    "name": "杭州宋城千古情",
+    "location": {
+      "province": "浙江",
+      "city": "杭州",
+      "district": "西湖区",
+      "address": "浙江省杭州市西湖区之江路148号",
+      "coordinates": [30.2066, 120.1426]
+    },
+    "facilities": [
+      "表演秀",
+      "主题园区",
+      "游乐设施",
+      "餐饮设施",
+      "商店",
+      "免费WiFi",
+      "停车场"
+    ],
+    "ticketInfo": {
+      "adult": "310元",
+      "child": "190元",
+      "student": "310元",
+      "annual": "880元",
+      "night": "100元",
+      "peak": "390元"
+    },
+    "openTime": "09:00-22:00",
+    "website": "https://www.songcheng.com",
+    "phone": "0571-82633666",
+    "tags": ["演出", "表演", "热门", "家庭"],
+    "createTime": "2026-03-11T00:00:00.000Z",
+    "updateTime": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "_id": "themePark_16",
+    "brand": "海昌",
+    "name": "上海海昌海洋公园",
+    "location": {
+      "province": "上海",
+      "city": "上海",
+      "district": "浦东新区",
+      "address": "上海市浦东新区南汇新城镇沪港大道888号",
+      "coordinates": [31.0457, 121.9509]
+    },
+    "facilities": [
+      "海洋动物",
+      "游乐设施",
+      "表演秀",
+      "餐饮设施",
+      "商店",
+      "免费WiFi",
+      "停车场"
+    ],
+    "ticketInfo": {
+      "adult": "399元",
+      "child": "249元",
+      "student": "399元",
+      "annual": "1280元",
+      "night": "199元",
+      "peak": "499元"
+    },
+    "openTime": "09:30-21:00",
+    "website": "https://www.haichangoceanpark.com",
+    "phone": "021-20906000",
+    "tags": ["海洋公园", "动物", "家庭", "热门"],
+    "createTime": "2026-03-11T00:00:00.000Z",
+    "updateTime": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "_id": "themePark_17",
+    "brand": "银基",
+    "name": "银基冰雪乐园",
+    "location": {
+      "province": "河南",
+      "city": "新密",
+      "district": "新密市",
+      "address": "河南省郑州市新密市刘寨镇",
+      "coordinates": [34.5433, 113.4384]
+    },
+    "facilities": [
+      "冰雪世界",
+      "游乐设施",
+      "餐饮设施",
+      "商店",
+      "免费WiFi",
+      "停车场"
+    ],
+    "ticketInfo": {
+      "adult": "299元",
+      "child": "199元",
+      "student": "299元",
+      "annual": "980元",
+      "night": "150元",
+      "peak": "399元"
+    },
+    "openTime": "09:00-22:00",
+    "website": "https://www.yinjigroup.com",
+    "phone": "0371-69888888",
+    "tags": ["冰雪乐园", "家庭", "亲子", "新兴"],
+    "createTime": "2026-03-11T00:00:00.000Z",
+    "updateTime": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "_id": "themePark_18",
+    "brand": "森林",
+    "name": "森林世界欢乐城",
+    "location": {
+      "province": "广东",
+      "city": "广州",
+      "district": "花都区",
+      "address": "广东省广州市花都区梯面镇横坑村",
+      "coordinates": [23.4140, 113.5453]
+    },
+    "facilities": [
+      "主题园区",
+      "游乐设施",
+      "表演秀",
+      "餐饮设施",
+      "商店",
+      "免费WiFi",
+      "停车场"
+    ],
+    "ticketInfo": {
+      "adult": "249元",
+      "child": "149元",
+      "student": "249元",
+      "annual": "680元",
+      "night": "120元",
+      "peak": "329元"
+    },
+    "openTime": "09:30-18:00",
+    "website": "https://www.forestworld.com",
+    "phone": "020-86966888",
+    "tags": ["主题乐园", "自然", "家庭", "新兴"],
+    "createTime": "2026-03-11T00:00:00.000Z",
+    "updateTime": "2026-03-11T00:00:00.000Z"
+  }
+]
