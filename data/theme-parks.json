@@ -152,7 +152,7 @@
       "city": "深圳",
       "district": "盐田区",
       "address": "广东省深圳市盐田区大梅沙环梅路",
-      "coordinates": [22.5640, 114.与其他]
+      "coordinates": [22.5640, 114.2899]
     },
     "facilities": [
       "主题园区",
@@ -233,7 +233,7 @@
       "商店",
       "免费WiFi",
       "停车场"
-    },
+    ],
     "ticketInfo": {
       "adult": "280元",
       "child": "180元",
@@ -303,7 +303,7 @@
       "商店",
       "免费WiFi",
       "停车场"
-    },
+    ],
     "ticketInfo": {
       "adult": "299元",
       "child": "199元",
@@ -420,7 +420,7 @@
       "peak": "399元"
     },
     "openTime": "09:00-22:00",
-    "website": "https:// happyvalley.cn",
+    "website": "https://www.happyvalley.cn",
     "phone": "010-67333336",
     "tags": ["主题乐园", "游乐", "刺激", "热门"],
     "createTime": "2026-03-11T00:00:00.000Z",
@@ -455,7 +455,7 @@
       "peak": "340元"
     },
     "openTime": "09:30-21:00",
-    "website": "https:// happyvalley.cn",
+    "website": "https://www.happyvalley.cn",
     "phone": "028-61898000",
     "tags": ["主题乐园", "游乐", "刺激"],
     "createTime": "2026-03-11T00:00:00.000Z",
