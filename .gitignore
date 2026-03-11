@@ -5,6 +5,7 @@
 .env
 .env.local
 .env.*.local
+config/.env
 
 # 微信开发者工具
 project.config.json
